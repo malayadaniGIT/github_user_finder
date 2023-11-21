@@ -1,0 +1,46 @@
+.text-font{
+    color: white;
+    font-size: large;
+}
+.homebox{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+}
+.con{
+    margin-top:10px
+}
+.name{
+    color: white;
+    padding: 20px;
+}
+.bio{
+    color: white;
+    padding: 10px;
+}
+.heading{
+    font-size: large;
+}
+
+.abc{
+    
+    text-align: start;
+}
+.xyz{
+    text-align: start;
+
+}
+.repolink{
+color:black;
+margin: 7px 0 0 10px;
+}
+
+a:hover{
+    color: red;
+}
+.searchbtn:hover{
+    background-color: rgb(128, 84, 210);
+    color: white;
+}
